@@ -95,7 +95,7 @@ body {
   
   @media (max-width: 480px) {
     h1 {
-      font-size: 1.2rem; /* Font size for very small screens */
+      font-size: 1.1rem; /* Font size for very small screens */
     }
   
     .toggle-button {

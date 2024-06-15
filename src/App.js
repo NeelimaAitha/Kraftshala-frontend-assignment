@@ -14,7 +14,7 @@ const App = () => {
             <button className="dark-mode-toggle" onClick={toggleDarkMode}>
                 {darkMode ? 'Light Mode' : 'Dark Mode'}
             </button>
-            <h1>Weather App</h1>
+            <h1 className='heading'>Weather App</h1>
             <Weather />
         </div>
     );
